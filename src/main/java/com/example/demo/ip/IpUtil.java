@@ -24,12 +24,14 @@ public class IpUtil {
 
 
     //测试
+/*
     public static void main(String[] args) {
         //获取本机ip
         System.out.println(JSON.toJSONString(getIpVo(null)));
         //获取指定ip
         System.out.println(JSON.toJSONString(getIpVo("115.48.58.106")));
     }
+*/
 
     /**
      * 获取访问者的ip地址

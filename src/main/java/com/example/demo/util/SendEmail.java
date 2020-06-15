@@ -53,7 +53,6 @@ public class SendEmail {
         try {
             String res = operation.sendMail(user, password, host, from, to,
                     subject, sb.toString());
-            System.out.println(res);
         } catch (Exception e) {
             // TODO Auto-generated catch block
             e.printStackTrace();

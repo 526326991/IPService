@@ -16,8 +16,8 @@ public class App {
     private static final String netip = "netip";
 
 
-    public static void main(String[] args) throws Exception {
-    }
+    /*public static void main(String[] args) throws Exception {
+    }*/
 
     public static Map<String, String> getRealIp() throws Exception {
         Map<String, String> map = new HashMap<>();

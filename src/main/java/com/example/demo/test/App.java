@@ -6,15 +6,18 @@ import com.example.demo.test.impl.ShipTrip;
 
 public class App {
 
+/*
     public static void main(String[] args) {
         String level = "黄金";//this is variable
-        /*
+        */
+/*
          * 先有个会员制度，按照会员等级享受出行方式
          * 会员等级 白银  黄金  钻石
          * 1.如果是 白银 享受 自信车出行
          * 2.如果是 黄金 享受 航船出行
          * 3.如果是 钻石 享受 飞机出行
-         * */
+         * *//*
+
         //传统if/else 方法
         if ("白银".equals(level)) {
             System.out.println("自信车出行");
@@ -42,4 +45,5 @@ public class App {
         contextB.execute(level);
 
     }
+*/
 }
