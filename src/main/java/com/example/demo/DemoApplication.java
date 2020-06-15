@@ -13,6 +13,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 public class DemoApplication {
     //private static final String file = "info.properties";
 
+
     public static void main(String[] args) {
         SpringApplication.run(DemoApplication.class, args);
     }
