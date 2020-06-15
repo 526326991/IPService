@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e4c9739-1289-4389-b1db-ef013ff9be30" name="Default Changelist" comment="IPcommos first" />
+    <list default="true" id="7e4c9739-1289-4389-b1db-ef013ff9be30" name="Default Changelist" comment="IPcommos first">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -254,10 +259,10 @@
       <screen x="0" y="23" width="1680" height="950" />
     </state>
     <state x="578" y="253" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.950@0.23.1680.950" timestamp="1589445298080" />
-    <state x="421" y="98" key="CommitChangelistDialog2" timestamp="1592197659010">
+    <state x="421" y="98" key="CommitChangelistDialog2" timestamp="1592198657379">
       <screen x="0" y="23" width="1680" height="950" />
     </state>
-    <state x="421" y="98" key="CommitChangelistDialog2/0.23.1680.950@0.23.1680.950" timestamp="1592197659010" />
+    <state x="421" y="98" key="CommitChangelistDialog2/0.23.1680.950@0.23.1680.950" timestamp="1592198657379" />
     <state x="0" y="23" key="FileDocumentManager.FileCacheConflict" timestamp="1587706188994">
       <screen x="0" y="23" width="1680" height="952" />
     </state>
@@ -323,14 +328,14 @@
     </state>
     <state x="341" y="138" key="SettingsEditor/0.23.1680.950@0.23.1680.950" timestamp="1592198082221" />
     <state x="341" y="138" key="SettingsEditor/0.23.1680.952@0.23.1680.952" timestamp="1587706247529" />
-    <state x="440" y="239" key="Vcs.Push.Dialog.v2" timestamp="1592197643415">
+    <state x="440" y="239" key="Vcs.Push.Dialog.v2" timestamp="1592198666715">
       <screen x="0" y="23" width="1680" height="950" />
     </state>
-    <state x="440" y="239" key="Vcs.Push.Dialog.v2/0.23.1680.950@0.23.1680.950" timestamp="1592197643415" />
-    <state x="623" y="422" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592197656024">
+    <state x="440" y="239" key="Vcs.Push.Dialog.v2/0.23.1680.950@0.23.1680.950" timestamp="1592198666715" />
+    <state x="623" y="422" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592198718861">
       <screen x="0" y="23" width="1680" height="950" />
     </state>
-    <state x="623" y="422" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.950@0.23.1680.950" timestamp="1592197656024" />
+    <state x="623" y="422" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.950@0.23.1680.950" timestamp="1592198718861" />
     <state width="696" height="862" key="documentation.popup.size" timestamp="1592196195080">
       <screen x="0" y="23" width="1680" height="950" />
     </state>
