@@ -7,7 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e4c9739-1289-4389-b1db-ef013ff9be30" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -197,7 +196,8 @@
       <workItem from="1592204741926" duration="623000" />
       <workItem from="1592207207842" duration="622000" />
       <workItem from="1592209529072" duration="222000" />
-      <workItem from="1592210976016" duration="352000" />
+      <workItem from="1592210976016" duration="787000" />
+      <workItem from="1592291908580" duration="15000" />
     </task>
     <task id="LOCAL-00001" summary="IPcommos first">
       <created>1592197601916</created>
@@ -227,7 +227,28 @@
       <option name="project" value="LOCAL" />
       <updated>1592211081468</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="文档">
+      <created>1592211529222</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1592211529222</updated>
+    </task>
+    <task id="LOCAL-00006" summary="文档">
+      <created>1592211555446</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1592211555446</updated>
+    </task>
+    <task id="LOCAL-00007" summary="文档">
+      <created>1592211689741</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1592211689741</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,7 +300,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="IPcommos first" />
     <MESSAGE value="脱敏" />
-    <option name="LAST_COMMIT_MESSAGE" value="脱敏" />
+    <MESSAGE value="文档" />
+    <option name="LAST_COMMIT_MESSAGE" value="文档" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="165" key="#Project_Structure" timestamp="1592187614295">
@@ -307,10 +329,10 @@
       <screen x="0" y="23" width="1680" height="950" />
     </state>
     <state x="579" y="291" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.23.1680.950@0.23.1680.950" timestamp="1592199956193" />
-    <state x="603" y="85" key="CommitChangelistDialog2" timestamp="1592211555345">
+    <state x="603" y="85" key="CommitChangelistDialog2" timestamp="1592211689650">
       <screen x="0" y="23" width="1680" height="950" />
     </state>
-    <state x="603" y="85" key="CommitChangelistDialog2/0.23.1680.950@0.23.1680.950" timestamp="1592211555345" />
+    <state x="603" y="85" key="CommitChangelistDialog2/0.23.1680.950@0.23.1680.950" timestamp="1592211689650" />
     <state x="168" y="106" key="DiffContextDialog" timestamp="1592211052457">
       <screen x="0" y="23" width="1680" height="950" />
     </state>
@@ -384,18 +406,18 @@
       <screen x="0" y="23" width="1680" height="950" />
     </state>
     <state x="678" y="376" width="332" height="244" key="VCS.EditChangelistDialog/0.23.1680.950@0.23.1680.950" timestamp="1592211021846" />
-    <state x="440" y="239" key="Vcs.Push.Dialog.v2" timestamp="1592211563511">
+    <state x="440" y="239" key="Vcs.Push.Dialog.v2" timestamp="1592211695581">
       <screen x="0" y="23" width="1680" height="950" />
     </state>
-    <state x="440" y="239" key="Vcs.Push.Dialog.v2/0.23.1680.950@0.23.1680.950" timestamp="1592211563511" />
+    <state x="440" y="239" key="Vcs.Push.Dialog.v2/0.23.1680.950@0.23.1680.950" timestamp="1592211695581" />
     <state x="494" y="332" key="com.intellij.ide.util.TipDialog" timestamp="1592209529010">
       <screen x="0" y="23" width="1680" height="950" />
     </state>
     <state x="494" y="332" key="com.intellij.ide.util.TipDialog/0.23.1680.950@0.23.1680.950" timestamp="1592209529010" />
-    <state x="623" y="422" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592211559214">
+    <state x="623" y="422" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592291926349">
       <screen x="0" y="23" width="1680" height="950" />
     </state>
-    <state x="623" y="422" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.950@0.23.1680.950" timestamp="1592211559214" />
+    <state x="623" y="422" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.950@0.23.1680.950" timestamp="1592291926349" />
     <state width="696" height="862" key="documentation.popup.size" timestamp="1592196195080">
       <screen x="0" y="23" width="1680" height="950" />
     </state>
