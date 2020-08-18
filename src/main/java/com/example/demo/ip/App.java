@@ -1,5 +1,7 @@
 package com.example.demo.ip;
 
+import com.example.demo.enums.MessageEnum;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -16,8 +18,19 @@ public class App {
     private static final String netip = "netip";
 
 
-    /*public static void main(String[] args) throws Exception {
-    }*/
+    public static void main(String[] args) throws Exception {
+/*        if(rs.getInt("sorting_state")==0){
+            nm.setSortingStateByValue("待完成");
+        }else if (rs.getInt("sorting_state")==1){
+            nm.setSortingStateByValue("补码异常");
+        }else if (rs.getInt("sorting_state")==2){
+            nm.setSortingStateByValue("异常");
+        }else if (rs.getInt("sorting_state")==3){
+            nm.setSortingStateByValue("完成");
+        }else if (rs.getInt("sorting_state")==4){
+            nm.setSortingStateByValue("异形件");
+        }*/
+    }
 
     public static Map<String, String> getRealIp() throws Exception {
         Map<String, String> map = new HashMap<>();
